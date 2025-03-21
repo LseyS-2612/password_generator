@@ -14,11 +14,11 @@ This **Python Password Generator** is a beginner-friendly project that creates s
 ## Installation
 1. Clone this repository or download the script.
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/LseyS-2612/password_generator.git
    ```
 2. Navigate to the project folder.
    ```bash
-   cd password-generator
+   cd password_generator
    ```
 3. Run the script.
    ```bash
@@ -28,7 +28,9 @@ This **Python Password Generator** is a beginner-friendly project that creates s
 ## Usage
 1. Run the script in the terminal.
 2. Enter the desired password length when prompted.
-3. The generated password will be displayed on the screen.
+3. Enter if you want special characthers.
+4. Enter if you want number.
+5. The generated password will be displayed on the screen.
 
 ## Contributing
 Feel free to fork this repository and improve the project! Pull requests are welcome.
